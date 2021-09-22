@@ -13,7 +13,8 @@ Pacotes = [
  codecs.decode('021efd40', 'hex_codec'),
  codecs.decode('081e7eda', 'hex_codec'),
 
-print ("\033[31mDdos Attacking by MR.DANI")
+os.system("clear")
+print ("\033[31mAttacking by MR.DANI")
 print ("\033[31m███╗░░░███╗██████╗░░░░██████╗░░█████╗░███╗░░██╗██╗")
 print ("\033[31m████╗░████║██╔══██╗░░░██╔══██╗██╔══██╗████╗░██║██║")
 print ("\033[31m██╔████╔██║██████╔╝░░░██║░░██║███████║██╔██╗██║██║")
