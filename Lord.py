@@ -14,16 +14,16 @@ Pacotes = [
  codecs.decode('081e7eda', 'hex_codec')]
 
 os.system("clear")
-print ' \x1b[1m\x1b[31mDdos Attacking by MR.DANI'
-print ' ███╗░░░███╗██████╗░░░░██████╗░░█████╗░███╗░░██╗██╗'
-print ' ████╗░████║██╔══██╗░░░██╔══██╗██╔══██╗████╗░██║██║'
-print ' ██╔████╔██║██████╔╝░░░██║░░██║███████║██╔██╗██║██║'
-print ' ██║╚██╔╝██║██╔══██╗░░░██║░░██║██╔══██║██║╚████║██║'
-print ' ██║░╚═╝░██║██║░░██║██╗██████╔╝██║░░██║██║░╚███║██║'
-print ' ╚═╝░░░░░╚═╝╚═╝░░╚═╝╚═╝╚═════╝░╚═╝░░╚═╝╚═╝░░╚══╝╚═╝'
-print ' DDOS ATTACK SAMP BY MR.DANI
-print ' ATTACK BY MR.DANI KE IP %s DAN PORT %s ' % (orgip, port) 
-print ' MENGHUBUNG ERROR/DOWN TIMEOUT....'
+print ('\x1b[1m\x1b[31mDdos Attacking by MR.DANI')
+print ('███╗░░░███╗██████╗░░░░██████╗░░█████╗░███╗░░██╗██╗')
+print ('████╗░████║██╔══██╗░░░██╔══██╗██╔══██╗████╗░██║██║')
+print ('██╔████╔██║██████╔╝░░░██║░░██║███████║██╔██╗██║██║')
+print ('██║╚██╔╝██║██╔══██╗░░░██║░░██║██╔══██║██║╚████║██║')
+print ('██║░╚═╝░██║██║░░██║██╗██████╔╝██║░░██║██║░╚███║██║')
+print ('╚═╝░░░░░╚═╝╚═╝░░╚═╝╚═╝╚═════╝░╚═╝░░╚═╝╚═╝░░╚══╝╚═╝')
+print ('DDOS ATTACK SAMP BY MR.DANI')
+print ('ATTACK BY MR.DANI KE IP %s DAN PORT %s ') % (orgip, port) 
+print ('MENGHUBUNG ERROR/DOWN TIMEOUT....')
 class MyThread(threading.Thread):
 
     def run(self):
