@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+#Code by MR.DANI
 import socket, struct, codecs, sys, threading, random, time, os
 ip = sys.argv[1]
 port = sys.argv[2]
