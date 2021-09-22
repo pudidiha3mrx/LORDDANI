@@ -14,7 +14,7 @@ Pacotes = [
  codecs.decode('081e7eda', 'hex_codec')]
 
 os.system("clear")
-print ('\x1b[1m\x1b[31mDdos Attacking by MR.DANI')
+print ('\xe2b[1m\x1b[31mDdos Attacking by MR.DANI')
 print ('███╗░░░███╗██████╗░░░░██████╗░░█████╗░███╗░░██╗██╗')
 print ('████╗░████║██╔══██╗░░░██╔══██╗██╔══██╗████╗░██║██║')
 print ('██╔████╔██║██████╔╝░░░██║░░██║███████║██╔██╗██║██║')
