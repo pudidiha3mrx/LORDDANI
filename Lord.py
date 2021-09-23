@@ -26,11 +26,11 @@ Pacotes = [codecs.decode("53414d5090d91d4d611e700a465b00","hex_codec"),#p
 
 
 os.system("clear")
-print("\033[31m ==========================")
+print("\033[31m ======================================")
 print("\033[31m            TOOLS BY MR.DANI")
-print("\033[31m ==========================")
+print("\033[31m ======================================")
 print("\033[31mDDOS FOR SAMP | GTPS | WEBSITE")
-print("\033[31m Script Ini Dibuat Hanya Untuk Team Mr.Dani")
+print("\033[31mScript Ini Dibuat Hanya Untuk Team Mr.Dani")
 print("\033[31mDDOS ATTACK BY MR.DANI TO IP: %s AND PORT: %s"%(orgip,port))
 print("\033[31mMENGHUBUNGKAN ERROR/DOWN TIMEOUT....")
             
